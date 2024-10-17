@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alunos\\Desktop\\SW\\api-tarefa\\api-tarefa.csproj": {}
+    "C:\\Users\\Alunos\\Desktop\\api-tarefa\\api-tarefa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alunos\\Desktop\\SW\\api-tarefa\\api-tarefa.csproj": {
+    "C:\\Users\\Alunos\\Desktop\\api-tarefa\\api-tarefa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alunos\\Desktop\\SW\\api-tarefa\\api-tarefa.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Desktop\\api-tarefa\\api-tarefa.csproj",
         "projectName": "api-tarefa",
-        "projectPath": "C:\\Users\\Alunos\\Desktop\\SW\\api-tarefa\\api-tarefa.csproj",
+        "projectPath": "C:\\Users\\Alunos\\Desktop\\api-tarefa\\api-tarefa.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alunos\\Desktop\\SW\\api-tarefa\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\Desktop\\api-tarefa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",
